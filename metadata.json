@@ -1,0 +1,7 @@
+{
+  "name": "RouteReady Optimizer",
+  "description": "A stateless delivery route optimization tool for small businesses. Upload delivery addresses, geocode them, and get an optimized sequence for your fleet with one-touch navigation and calling.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
